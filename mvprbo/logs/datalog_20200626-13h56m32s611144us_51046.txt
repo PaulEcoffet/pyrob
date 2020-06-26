@@ -1,0 +1,12 @@
+# =-=-=-=-=-=-=-=-=-=-=
+# LOG DATA 
+# =-=-=-=-=-=-=-=-=-=-=
+#
+# =-= Roborobo^3 
+# =-= Official version tag    : 20170301
+# =-= Current build name      : Tokyo build (roborobo^3 w/ SDL2)
+# =-= Compilation version tag : Jun 26 2020 - 13:48:35
+#
+# Loaded time stamp           : 20200626-13h56m32s611144us
+# process ID                  : 51046
+#
